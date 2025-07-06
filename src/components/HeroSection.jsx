@@ -9,7 +9,7 @@ export const HeroSection = () => {
           <h1>
             <span> Hi, I'm</span>
             <span> Fael</span>
-            <span> Piñero</span>
+            <span> Barroga Piñero</span>
           </h1>
         </div>
       </div>
